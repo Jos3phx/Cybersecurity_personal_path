@@ -29,7 +29,7 @@ Install dependencies:
 ```bash
 pip3 install paramiko --break-system-packages
 
-## 🚀 Usage
+🚀 Usage
 python3 pyBRUTOS.py <HOST> <PORT> <USERNAME> <WORDLIST_PATH>
 
 ⚠️ Disclaimer
