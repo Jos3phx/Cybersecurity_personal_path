@@ -16,10 +16,10 @@ Below is the current list of utilities available in this module. *(Refer to each
 ### 1. [🔍 pyLOG (Log Parser & Analyzer)](pyLOG)
 A command-line utility designed to securely parse massive text files (e.g., `auth.log`, `access.log`). It leverages Regular Expressions (Regex) to find exact keyword matches (like IPs or system errors) and optionally exports structured `.json` audit reports.
 
-### 2. [🔓 pyBRUTOS (SSH Authentication Auditor)](/pyBRUTOS)
+### 2. [🔓 pyBRUTOS (SSH Authentication Auditor)](pyBRUTOS)
 A dictionary-based SSH auditing script built with the `paramiko` library. Designed to automate credential testing against target servers, featuring automated protocol handling, network exception management, and rate-limiting evasion delays.
 
-### 3. [📥 pyDOWN (Python File Downloader)](/pyDOWN)
+### 3. [📥 pyDOWN (Python File Downloader)](pyDOWN)
 A web request automation script that validates target URLs and sanitizes file extensions via Regex. It downloads specific files (such as `.pdf` and `.txt`) using optimized memory streaming chunks via the `requests` library.
 
 ---
