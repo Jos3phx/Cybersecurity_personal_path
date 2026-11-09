@@ -13,7 +13,7 @@ This module contains a collection of custom Python scripts developed to automate
 
 Below is the current list of utilities available in this module. *(Refer to each script's individual README or source code for detailed usage instructions and specific dependencies).*
 
-### 1. [🔍 pyLOG (Log Parser & Analyzer)](/pyLOG)
+### 1. [🔍 pyLOG (Log Parser & Analyzer)](01_Python_Security_Tools/pyLOG)
 A command-line utility designed to securely parse massive text files (e.g., `auth.log`, `access.log`). It leverages Regular Expressions (Regex) to find exact keyword matches (like IPs or system errors) and optionally exports structured `.json` audit reports.
 
 ### 2. [🔓 pyBRUTOS (SSH Authentication Auditor)](/pyBRUTOS)
