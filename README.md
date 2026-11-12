@@ -4,7 +4,7 @@ My personal repository for studies and research in cybersecurity, focusing on ne
 
 # View a progress Status
 
-/STATUS.md
+[STATUS](./STATUS.md).
 
 # 🛡️ Personal Cybersecurity & Infrastructure Path (12 Months)
 
