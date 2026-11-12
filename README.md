@@ -2,7 +2,7 @@
 
 My personal repository for studies and research in cybersecurity, focusing on networks (physical & wireless), infrastructure, SDR, telecommunications, and everything related to security testing within these environments.
 
-# View a progress Status
+# ⏳ View a progress Status
 
 [STATUS](./STATUS.md).
 
