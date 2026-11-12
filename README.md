@@ -10,8 +10,7 @@ My personal repository for studies and research in cybersecurity, focusing on ne
 
 Personal repository dedicated to documenting practical research, automation scripts, exploit development, spectrum analysis, and hands-on labs for a 12-month study roadmap focused on **Network Security (physical & wireless), Infrastructure, Telecom, and Low-Level Engineering**, with IoT/OT-ICS covered as a complementary module.
 
-This path is self-directed and shaped by prior formal training (see below), so several months are framed as **hands-on validation** of concepts already studied, not first-time learning. Months are organizational, not fixed deadlines — depth matters more than pace, especially while studying alongside a full Computer Engineering degree.
-
+This path is self-directed and shaped by prior formal training (see below), so several months are framed as **hands-on validation** of concepts already studied, not first-time learning. Months are organizational, not fixed deadlines.
 ---
 
 ## 🎓 Prior Training
