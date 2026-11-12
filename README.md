@@ -10,7 +10,8 @@ My personal repository for studies and research in cybersecurity, focusing on ne
 
 Personal repository dedicated to documenting practical research, automation scripts, exploit development, spectrum analysis, and hands-on labs for a 12-month study roadmap focused on **Network Security (physical & wireless), Infrastructure, Telecom, and Low-Level Engineering**, with IoT/OT-ICS covered as a complementary module.
 
-This path is self-directed and shaped by prior formal training (see below), so several months are framed as **hands-on validation** of concepts already studied, not first-time learning. Months are organizational, not fixed deadlines.
+This path is self-directed and shaped by prior formal training (see below), so several months are framed as **hands-on validation** of concepts already studied, not first-time learning. Months are organizational, not fixed deadlines — depth matters more than pace, especially while studying alongside a full Computer Engineering degree.
+
 ---
 
 ## 🎓 Prior Training
@@ -43,7 +44,7 @@ This path is self-directed and shaped by prior formal training (see below), so s
 | Month | Topics & Technologies | Practical Milestone |
 |---|---|---|
 | **Month 07** | **C Language, Assembly & Exploit Dev:** Memory management (stack/heap), x86/x64 Assembly, buffer overflow, shellcode, ROP chains. | Buffer overflow exploit written in C. |
-| **Month 08** | **Firmware & Embedded Reversing:** MIPS/ARM/PowerPC architectures, Binwalk, Ghidra, UART/SPI/JTAG, ESP32/FreeRTOS/MQTT. | Firmware extraction + analysis of a router/IoT device. |
+| **Month 08** | **Firmware & Embedded Reversing:** MIPS/ARM/PowerPC architectures, Binwalk, Ghidra, UART/SPI/JTAG. | Firmware extraction + analysis of a router/gateway device. |
 | **Month 09** | **Radio Frequency & SDR:** RTL-SDR, HackRF One, GQRX, SDR++, GNU Radio — signal analysis and decoding. | Signal decoding + replay restricted to own transmitters. |
 
 ### 4th Quarter: Physical Security, Telecom & Industrial OT/ICS
@@ -52,7 +53,7 @@ This path is self-directed and shaped by prior formal training (see below), so s
 |---|---|---|
 | **Month 10** | **Physical Security & Access Control:** RFID/NFC (125 kHz & 13.56 MHz, MIFARE), Proxmark3/Flipper Zero, VLAN hopping via exposed ports, physical intrusion testing methodology. | Badge cloning in a controlled environment + physical pentest report. |
 | **Month 11** | **Telecom & Mobile Networks:** 2G-5G NR architecture, SS7/Diameter signaling, Open5GS, 3GPP TS 33.501. | Private, isolated 5G core (Open5GS) + passive signaling analysis. |
-| **Month 12** | **IoT & Industrial OT/ICS:** Modbus, S7comm, DNP3, OPC UA, Purdue Model, IEC 62443, NIST SP 800-82. | Modbus/S7 lab with traffic analysis/injection + introductory OT audit report. |
+| **Month 12** | **IoT & Industrial OT/ICS:** ESP32/FreeRTOS/MQTT, Modbus, S7comm, DNP3, OPC UA, Purdue Model, IEC 62443, NIST SP 800-82. | Modbus/S7 lab with traffic analysis/injection + introductory OT audit report. |
 
 ---
 
