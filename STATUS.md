@@ -1,5 +1,6 @@
 # 📍 Progress Tracker
 
+![Started](https://img.shields.io/badge/Started-October_2026-informational)
 ![Current Phase](https://img.shields.io/badge/Current_Phase-Month_01%2F12-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-brightgreen)
 ![Last Update](https://img.shields.io/badge/Last_Update-Nov_2026-lightgrey)
