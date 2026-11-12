@@ -2,6 +2,10 @@
 
 My personal repository for studies and research in cybersecurity, focusing on networks (physical & wireless), infrastructure, SDR, telecommunications, and everything related to security testing within these environments.
 
+# View a progress Status
+
+/STATUS.md
+
 # 🛡️ Personal Cybersecurity & Infrastructure Path (12 Months)
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-brightgreen)
