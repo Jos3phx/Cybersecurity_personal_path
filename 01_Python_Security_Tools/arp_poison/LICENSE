@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 jos3phx
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+AVISO ADICIONAL SOBRE USO ÉTICO E LEGAL
+
+Este software foi criado para fins estritamente educacionais, no contexto de
+estudos de segurança ofensiva (pentest). Ele realiza ARP Spoofing, uma técnica
+que pode ser usada para interceptar trafego de rede.
+
+O uso desta ferramenta contra redes, dispositivos ou sistemas para os quais
+você nao possui autorização explicita e por escrito pode constituir crime,
+sujeito as leis do seu pais (no Brasil, entre outras, a Lei 12.737/2012 e o
+Marco Civil da Internet). O(s) autor(es) não se responsabilizam por qualquer
+uso indevido, danos ou consequências legais decorrentes do uso deste software.
+
+Use com responsabilidade, apenas em laboratórios próprios ou ambientes com
+autorização formal para testes de segurança.
