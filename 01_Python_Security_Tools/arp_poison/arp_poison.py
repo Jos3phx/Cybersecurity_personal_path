@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-arper.py - Ferramenta educacional de ARP Spoofing / Cache Poisoning.
+arp_poison.py - Ferramenta educacional de ARP Spoofing / Cache Poisoning.
 
 Baseado no Capitulo 4 do livro "Python para Pentester", com correcoes de
 bugs e melhorias de usabilidade/robustez para uso por analistas de
