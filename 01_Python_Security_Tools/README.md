@@ -22,6 +22,9 @@ A dictionary-based SSH auditing script built with the `paramiko` library. Design
 ### 3. [📥 pyDOWN (Python File Downloader)](pyDOWN)
 A web request automation script that validates target URLs and sanitizes file extensions via Regex. It downloads specific files (such as `.pdf` and `.txt`) using optimized memory streaming chunks via the `requests` library.
 
+### 4. [🛡️ arp_poison (ARP Cache Poisoning & MITM Tool)](arp_poison)
+A Layer 2 ARP spoofing and Man-in-the-Middle (MITM) lab utility built with the `scapy` library. It performs bidirectional ARP cache poisoning between a target host and gateway, supports optional non-blocking `.pcap` packet capture, and gracefully restores legitimate ARP tables upon exit (`SIGINT`).
+
 ---
 
 ## ⚠️ Warning / Safe Harbor
