@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/Network_Security-Layer_2_%2F_ARP-red?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-Educational **ARP Spoofing / ARP Cache Poisoning** tool built in Python using **Scapy**. Originally inspired by Chapter 4 of *Black Hat Python (2nd Edition)*, this implementation has been refactored and hardened for stability, clean process management, and compatibility with modern Linux and Python (3.9–3.14+) environments.
+Educational **ARP Spoofing / ARP Cache Poisoning** tool built in Python using **Scapy**. Originally inspired by Chapter 4 of *Black Hat Python (2nd Edition)*, this implementation has been refactored and enhanced with the assistance of the AI ​​Claude Code to ensure greater stability, clean process management, and compatibility with modern Linux and Python (3.9–3.14+) environments.
 
 > [!WARNING]
 > ⚠️ **Authorized Lab Use Only:** Read the [Legal & Ethical Disclaimer](#-legal--ethical-disclaimer) and the [LICENSE](LICENSE) terms carefully before executing this tool. Never run ARP spoofing on networks without explicit, written permission.
