@@ -35,5 +35,6 @@ The Address Resolution Protocol (ARP) lacks built-in authentication, allowing an
   ```bash
   sudo sysctl -w net.ipv4.ip_forward=1
 
-  [!TIP]
+
+[!TIP]
 Virtual Machine Users (VirtualBox / VMware): Configure your network adapter in Bridged Mode and set Promiscuous Mode to Allow All. Default NAT or strict hypervisor MAC filtering will block spoofed frames from leaving the virtual interface.
